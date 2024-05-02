@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Tonyac-create/faq-accordion-main]
-- Live Site URL: [faq-accordion-main-ebon-sigma.vercel.app]
+- Live Site URL: [https://faq-accordion-main-ebon-sigma.vercel.app]
 
 ## My process
 
